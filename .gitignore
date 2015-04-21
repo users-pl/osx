@@ -8,6 +8,7 @@
 .npm
 .nvm
 .subversion
+.ssh
 .vim
 .viminfo
 .vimshell
